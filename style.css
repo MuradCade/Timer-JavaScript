@@ -55,7 +55,7 @@ button:hover{
     }
 }
     /*   mobile phone view */
-     @media only screen and (max-width: 600px) {
+       @media only screen and (max-width: 600px) {
         body {
            background-color: #DE8971;
         }
@@ -71,6 +71,8 @@ button:hover{
        
         button{
             margin-bottom: 20px;
+            position: relative;
+            left: -7%;
         }
        
   }
