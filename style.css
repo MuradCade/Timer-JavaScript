@@ -58,8 +58,12 @@ button:hover{
        @media only screen and (max-width: 600px) {
         body {
            background-color: #DE8971;
+           margin: 180px auto;
+           position: relative;
+           left: 25px;
         }
         h2{
+           
             position: relative;
             left: -10%;
          
